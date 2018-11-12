@@ -27,7 +27,7 @@ This image provides a summary of the attack statistics:
 <img src="https://github.com/amangarg1003/netsec_week9_homework/blob/master/SummaryStats.png" width=800>
 
 # JSON File
-Here is the link to the sessions.json file
+[here](session.json) is the link to the sessions.json file
 
 # Further Questions
 I did not have any further questions from the material in this lab. The instructions were pretty straight forward and I was able to understand what was being done.
